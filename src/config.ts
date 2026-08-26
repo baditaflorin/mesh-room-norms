@@ -2,6 +2,7 @@ import { createMeshConfig } from "@baditaflorin/mesh-common";
 
 export const config = createMeshConfig({
   appName: "mesh-room-norms",
+  breadcrumbs: false,
   displayName: "Room Norms",
   visualProfile: "gather",
   shellLayout: "inset",
