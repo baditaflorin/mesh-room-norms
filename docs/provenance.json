@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-room-norms",
+  "sourceCommit": "475f195037b016514e8a0dc6aa141b7a9e18d6c8",
+  "releaseCommit": "475f195037b016514e8a0dc6aa141b7a9e18d6c8",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-27T20:47:00Z"
+}
